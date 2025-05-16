@@ -1,0 +1,33 @@
+{
+    "inicio": {
+      "saludo": "Hi, I'm Yahir 👋",
+      "descripcion": "Web developer and founder of RedDigitalCreations. I build modern, responsive, and stylish websites for businesses that want to stand out."
+    },
+    "servicios": {
+      "titulo": "Services",
+      "web": "Website design and development",
+      "webDesc": "Responsive, fast, and attractive sites starting at $15,000 MXN",
+      "codigo": "Source code delivery",
+      "codigoDesc": "Well-commented, organized, and documented code for an extra $3,000 MXN"
+    },
+    "portafolio": {
+      "titulo": "Portfolio",
+      "proyectos": [
+        {
+          "nombre": "Hi Blinds",
+          "descripcion": "Blinds and WPC product site developed with React and custom carousels."
+        },
+        {
+          "nombre": "Hecho a Mano",
+          "descripcion": "Video scripts and product layout for personalized ecommerce."
+        }
+      ]
+    },
+    "contacto": {
+      "titulo": "Contact",
+      "descripcion": "Want to work with me or have an idea in mind?",
+      "boton": "Write me"
+    },
+    "footer": "© 2025 RedDigitalCreations. All rights reserved."
+  }
+  
